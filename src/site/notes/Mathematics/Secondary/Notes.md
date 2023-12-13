@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mathematics/secondary/notes/","dgPassFrontmatter":true,"created":"2023-12-08T23:17:38.129+08:00","updated":"2023-12-08T23:19:20.507+08:00"}
+{"dg-publish":true,"permalink":"/mathematics/secondary/notes/"}
 ---
 
 奇变偶不变，正负看象限

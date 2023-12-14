@@ -14,3 +14,9 @@
 
 
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bea.gov/sites/default/files/2023-12/gdpind2q23.pdf
+
+
+
+
+![1.webp](/img/user/1.webp)
+![2.webp](/img/user/2.webp)![3.webp](/img/user/3.webp)

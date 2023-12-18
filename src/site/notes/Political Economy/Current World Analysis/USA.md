@@ -18,5 +18,5 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bea.gov/sites/de
 
 
 
-![1.webp](/img/user/1.webp)
-![2.webp](/img/user/2.webp)![3.webp](/img/user/3.webp)
+![1.webp](/img/user/Pictures%20and%20Photos/1.webp)
+![2.webp](/img/user/Pictures%20and%20Photos/2.webp)![3.webp](/img/user/Pictures%20and%20Photos/3.webp)

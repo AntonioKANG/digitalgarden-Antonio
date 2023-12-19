@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/political-economy/population-aging/hong-kong/"}
+{"dg-publish":true,"permalink":"/political-economy/population-aging/hong-kong/","dgPassFrontmatter":true}
 ---
 
 

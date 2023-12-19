@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/novel/cn-fancy-novel-ideas/"}
+{"dg-publish":true,"permalink":"/writing/novel/cn-fancy-novel-ideas/","dgPassFrontmatter":true}
 ---
 
 similar to 无尽债务, it should refer to different ancient myths, philosophical and even political ideas, science and technologies etc.

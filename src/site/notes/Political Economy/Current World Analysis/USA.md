@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/political-economy/current-world-analysis/usa/"}
+{"dg-publish":true,"permalink":"/political-economy/current-world-analysis/usa/","dgPassFrontmatter":true}
 ---
 
 | GDP - composition, by sector of origin | GDP - composition, by end use                    | Labor force - by occupation         |                                                                     |

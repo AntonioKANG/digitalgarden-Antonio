@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/music/music/classical-music/"}
+{"dg-publish":true,"permalink":"/music/music/classical-music/","dgPassFrontmatter":true}
 ---
 
 巴赫  Bach （1685年3月31日［[儒略曆](https://zh.wikipedia.org/wiki/%E5%84%92%E7%95%A5%E6%9B%86 "儒略曆")3月21日］—1750年7月28日），[巴洛克](https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%B4%9B%E5%85%8B%E9%9F%B3%E6%A8%82 "巴洛克音樂")時期的[作曲家](https://zh.wikipedia.org/wiki/%E4%BD%9C%E6%9B%B2%E5%AE%B6 "作曲家")及[管風琴](https://zh.wikipedia.org/wiki/%E7%AE%A1%E9%A2%A8%E7%90%B4 "管風琴")、[大鍵琴](https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%8D%B5%E7%90%B4 "大鍵琴")、[小提琴](https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%8F%90%E7%90%B4 "小提琴")演奏家，也是巴洛克音樂的集大成者，被認為是音樂史上最重要的作曲家之一。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/political-economy/current-world-analysis/economic-analysis-about-the-pillar-industries-of-major-countris/"}
+{"dg-publish":true,"permalink":"/political-economy/current-world-analysis/economic-analysis-about-the-pillar-industries-of-major-countris/","dgPassFrontmatter":true}
 ---
 
 

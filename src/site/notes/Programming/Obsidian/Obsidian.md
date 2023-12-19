@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programming/obsidian/obsidian/"}
+{"dg-publish":true,"permalink":"/programming/obsidian/obsidian/","dgPassFrontmatter":true}
 ---
 
 digital graden

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/music/music/rock-and-roll/"}
+{"dg-publish":true,"permalink":"/music/music/rock-and-roll/","dgPassFrontmatter":true}
 ---
 
 万能青年旅店

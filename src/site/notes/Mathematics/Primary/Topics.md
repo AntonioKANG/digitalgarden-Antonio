@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mathematics/primary/topics/"}
+{"dg-publish":true,"permalink":"/mathematics/primary/topics/","dgPassFrontmatter":true}
 ---
 
 P1:

@@ -7,7 +7,7 @@
 My digital garden is aimed to be built as a knowledge tree and a daily tracker.
 [[Philosophy/Philosophy\|Philosophy]]
 [[Daily Life/Daily Life\|Daily Life]]
-[[Political Economics/Political Economics\|Political Economics]]
+[[Political Economics/Political Economy\|Political Economy]]
 [[Personal Finance/Personal Finance\|Personal Finance]]
 [[Mathematics/Mathematics\|Mathematics]]
 [[Music/Music\|Music]]

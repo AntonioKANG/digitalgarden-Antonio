@@ -4,3 +4,24 @@
 
 This is the main page of EO Preparation.
 Here you can go back to the main page of the garden [[My Garden\|My Garden]], and the main page of language learning [[Language Learning/Language Learning\|Language Learning]].
+#Workplace/Gov
+# Preparation
+## **JRE - EN**
+### Structure
+- Introduction
+	- Background
+	- Situation
+	- Stance
+		- Brief argument
+- Main body
+- Conclusion
+### Model Essays
+
+### Predicted Topics
+
+## **JRE - CN**
+### 寫作框架
+
+### 範文
+
+### 模擬試題

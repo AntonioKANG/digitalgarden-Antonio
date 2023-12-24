@@ -10,6 +10,7 @@ My digital garden is aimed to be built as a knowledge tree and a daily tracker.
 [[Political Economics/Political Economy\|Political Economy]]
 [[Personal Finance/Personal Finance\|Personal Finance]]
 [[Mathematics/Mathematics\|Mathematics]]
+[[Gaming/Gaming\|Gaming]]
 [[Music/Music\|Music]]
 [[Language Learning/EO/EO Preparation\|EO Preparation]]
 [[Language Learning/Language Learning\|Language Learning]]

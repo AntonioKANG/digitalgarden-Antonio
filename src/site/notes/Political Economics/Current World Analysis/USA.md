@@ -18,5 +18,5 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bea.gov/sites/de
 
 
 
-![1.webp](/img/user/Pictures%20and%20Photos/Pics/1.webp)
-![2.webp](/img/user/Pictures%20and%20Photos/Pics/2.webp)![3.webp](/img/user/Pictures%20and%20Photos/Pics/3.webp)
+![us gdp by industry 1.webp](/img/user/Pictures%20and%20Photos/Pics/us%20gdp%20by%20industry%201.webp)
+![us gdp by industry 2.webp](/img/user/Pictures%20and%20Photos/Pics/us%20gdp%20by%20industry%202.webp)![us gdp by industry 3.webp](/img/user/Pictures%20and%20Photos/Pics/us%20gdp%20by%20industry%203.webp)

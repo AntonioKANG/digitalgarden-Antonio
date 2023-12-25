@@ -3,7 +3,7 @@
 ---
 
 
-![1337b222ee58ebc92e826e049f717dd.png](/img/user/Pictures%20and%20Photos/Pics/1337b222ee58ebc92e826e049f717dd.png)
+![hk ppl pyramid.png](/img/user/Pictures%20and%20Photos/Pics/hk%20ppl%20pyramid.png)
 
 
 ---

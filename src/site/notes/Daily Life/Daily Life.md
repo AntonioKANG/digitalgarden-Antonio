@@ -7,3 +7,4 @@ Here you can go back to the main page of the garden [[My Garden\|My Garden]].
 
 # Notes List:
 - [[Daily Life/Daily Plans/12-12-2023\|12-12-2023]]
+- [[Daily Life/Daily Plans/6-23\|6-23]]

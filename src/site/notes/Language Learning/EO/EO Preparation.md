@@ -14,8 +14,14 @@ Here you can go back to the main page of the garden [[My Garden\|My Garden]], an
 ## Cantonese
 - Interview practice
 - *打字 for workplace only*
-## Writing Practice
+## News and Policies
+#### English News
 - 
+#### Cantonese News
+## Writing Practice
+- Writing from memory
+- Mock test
+- Daily practice
 
 ## **JRE - EN**
 ### Structure

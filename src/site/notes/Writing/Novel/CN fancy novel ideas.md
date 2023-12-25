@@ -28,7 +28,7 @@ similar to 无尽债务, it should refer to different ancient myths, philosophic
 - 所羅門王-希爾
 - 伯洛戈
 ### 秘源
-- 凝華者
+- 全體凝華者
 
 # 詭秘之主：
 ## 第一紀元

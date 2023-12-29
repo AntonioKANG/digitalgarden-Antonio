@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/my-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-![Philosophy main.jpeg](/img/user/Pictures%20and%20Photos/Pics/Philosophy%20main.jpeg)
+![Philosophy main.jpeg](/img/user/Doc%20and%20Pic/Pics/Philosophy%20main.jpeg)
 
 #### **My digital garden is aimed to be built as a knowledge tree and a daily tracker.**
 

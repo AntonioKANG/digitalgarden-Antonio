@@ -20,4 +20,10 @@
 [Markdown Tutorial](https://xianbai.me/learn-md/article/syntax/links.html)
 [Obsidian Tutorial](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/obsidian-%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8-%E5%9F%BA%E7%A4%8E%E7%AF%87-%E8%AA%8D%E8%AD%98%E9%A0%90%E8%A8%AD%E4%BB%8B%E9%9D%A2%E8%88%87%E5%9F%BA%E7%A4%8E%E5%8A%9F%E8%83%BD-dc59232bcca8)
 
-
+  \\\  转义符号
+ <\span style="font-size:20px;">这段文字字体大小为20像素</span>    
+ <span style="font-size:20px;">这段文字字体大小为20像素</span>
+<\span style="color:red;">这段文字是红色的</span>
+<span style="color:red;">这段文字是红色的</span>
+<\span style="font-size:20px; color:red;">这段文字同时设置了字体大小和颜色</span>
+<span style="font-size:20px; color:red;">这段文字同时设置了字体大小和颜色</span>

@@ -6,6 +6,7 @@ This is the main page of EO Preparation.
 Here you can go back to the main page of the garden [[My Garden\|My Garden]], and the main page of language learning [[Language Learning/Language Learning\|Language Learning]].
 #Workplace/Gov
 # **Preparation**
+- [[Language Learning/EO/Jre/JRE Writing Training Plan\|JRE Writing Training Plan]]
 ## English
 - Model Essays [[Language Learning/EO/Jre/EN Model Essays\|EN Model Essays]], [[Language Learning/EO/Jre/CN Model Essays\|CN Model Essays]]
 - High Frequency Vocab 5000 [[Language Learning/Language Learning#^3b76b6\|Vocab 5000]]
@@ -24,12 +25,13 @@ Here you can go back to the main page of the garden [[My Garden\|My Garden]], an
 - [講清講楚](https://news.tvb.com/tc/programme/ontherecord)
 - [時事多面睇](https://news.tvb.com/tc/programme/closerlook)
 ## Writing Practice
-- Writing from memory
-- Mock test
-- Daily practice
+- Writing from Memory                         [[Language Learning/EO/Jre/EN Model Essays\|EN Model Essays]]  [[Language Learning/EO/Jre/CN Model Essays\|CN Model Essays]]  
+- Mock Test                                           [[Language Learning/EO/Jre/JRE Mock Test Topics\|JRE Mock Test Topics]]
+- Daily Practice                                     [[Language Learning/EO/Jre/Writing Daily Practice\|Writing Daily Practice]]
 
 ## **JRE - EN**
 ### Structure
+- [[SE.pdf|EN Structure]]
 - Introduction
 	- Background
 	- Situation
@@ -43,7 +45,7 @@ Here you can go back to the main page of the garden [[My Garden\|My Garden]], an
 
 ## **JRE - CN**
 ### 寫作框架
-
+- [[SZ.pdf|CN Structure]]
 ### 範文
 
 ### 模擬試題

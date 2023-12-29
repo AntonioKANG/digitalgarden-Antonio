@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/daily-life/daily-life/","dgPassFrontmatter":true}
 ---
 
-![daily plan main.jpg](/img/user/Pictures%20and%20Photos/Pics/daily%20plan%20main.jpg)This is the main page of daily life.
+![daily plan main.jpg](/img/user/Doc%20and%20Pic/Pics/daily%20plan%20main.jpg)This is the main page of daily life.
 Here you can go back to the main page of the garden [[My Garden\|My Garden]].
 
 # Notes List:

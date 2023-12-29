@@ -25,9 +25,18 @@ Here you can go back to the main page of the garden [[My Garden\|My Garden]], an
 - [講清講楚](https://news.tvb.com/tc/programme/ontherecord)
 - [時事多面睇](https://news.tvb.com/tc/programme/closerlook)
 ## Writing Practice
-- Writing from Memory                         [[Language Learning/EO/Jre/EN Model Essays\|EN Model Essays]]  [[Language Learning/EO/Jre/CN Model Essays\|CN Model Essays]]  
-- Mock Test                                           [[Language Learning/EO/Jre/JRE Mock Test Topics\|JRE Mock Test Topics]]
-- Daily Practice                                     [[Language Learning/EO/Jre/Writing Daily Practice\|Writing Daily Practice]]
+- Writing from Memory                        
+{ #5fd7be}
+
+	- [[Language Learning/EO/Jre/EN Model Essays\|EN Model Essays]] 
+	- [[Language Learning/EO/Jre/CN Model Essays\|CN Model Essays]]  
+- Mock Test                                          
+{ #40e34f}
+
+	- [[Language Learning/EO/Jre/JRE Mock Test Topics\|JRE Mock Test Topics]]
+- Daily Practice                                   
+	- [[Language Learning/EO/Jre/Writing Daily Practice\|Writing Daily Practice]]
+{ #1ad2ee}
 
 ## **JRE - EN**
 ### Structure

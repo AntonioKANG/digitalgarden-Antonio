@@ -27,4 +27,3 @@
 <span style="color:red;">这段文字是红色的</span>
 <\span style="font-size:20px; color:red;">这段文字同时设置了字体大小和颜色</span>
 <span style="font-size:20px; color:red;">这段文字同时设置了字体大小和颜色</span>
-                       

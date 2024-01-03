@@ -16,6 +16,7 @@ Here you can go back to the main page of the garden [[My Garden\|My Garden]], an
 - Typing [[Language Learning/Cantonese/Cantonese Typing\|Cantonese Typing]] for workplace only
 ## News and Policies
 ##### English News
+- [South China Morning Post](https://www.scmp.com/)
 - [Hong Kong Connection](https://www.rthk.hk/tv/dtt32/programme/hkce/episode/888653)
 - [Hong Kong Stories](https://www.rthk.hk/tv/dtt32/programme/hkstories55_eng)
 ##### Cantonese News

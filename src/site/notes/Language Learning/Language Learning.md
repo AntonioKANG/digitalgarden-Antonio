@@ -6,10 +6,10 @@
 This is the main page of Language Learning.
 Here you can go back to the main page of the garden [[My Garden\|My Garden]].
 
-Preparation Plan, see [[Language Learning/EO/EO Preparation\|EO Preparation]].
+Preparation Plan, see [[Workplace/EO Preparation\|EO Preparation]].
 # Notes List:
-- [[Language Learning/EO/Interview/Interview Questions\|Interview Questions]]
-- [[Language Learning/EO/Jre/JRE Writing Training Plan\|JRE Writing Training Plan]]
+- [[Workplace/EO/Interview/Interview Questions\|Interview Questions]]
+- [[Workplace/EO/Jre/JRE Writing Training Plan\|JRE Writing Training Plan]]
 - [[Language Learning/English/Long and Complicated Sentences Learning from Yes, Minister & Yes, Prime Minister\|Long and Complicated Sentences Learning from Yes, Minister & Yes, Prime Minister]]
 
 

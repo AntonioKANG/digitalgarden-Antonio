@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/gaming/sky/sky-main-page/","dgPassFrontmatter":true}
 ---
 
+##### 其他筆記
+- [[Gaming/Sky光遇/Diff Pics\|Diff Pics]]
+- [[Gaming/Sky光遇/Incompleted missions\|Incompleted missions]]
 # 游戲機制
 - 刷新時間 每日16：00
 - [總攻略](https://forum.gamer.com.tw/C.php?bsn=33024&snA=1058)
@@ -9,7 +12,7 @@
 - [任務](https://forum.gamer.com.tw/C.php?bsn=33024&snA=702)
 - [跑圖](https://forum.gamer.com.tw/C.php?bsn=33024&snA=2040)
 - [地圖祭壇](https://forum.gamer.com.tw/C.php?bsn=33024&snA=1999&tnum=6&subbsn=5)
-- 
+
 
 
 | 地圖                                     | 翼之光數量   |

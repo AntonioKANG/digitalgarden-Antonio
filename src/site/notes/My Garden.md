@@ -13,7 +13,7 @@
 - [[Mathematics/Mathematics\|Mathematics]]
 - [[Gaming/Gaming\|Gaming]]
 - [[Music/Music\|Music]]
-- [[Language Learning/EO/EO Preparation\|EO Preparation]]
+- [[Workplace/EO Preparation\|EO Preparation]]
 - [[Language Learning/Language Learning\|Language Learning]]
 - [[Body Building/Body Building\|Body Building]]
 - [[Cardiorespiratory Exercise/Cardio\|Cardio]]
